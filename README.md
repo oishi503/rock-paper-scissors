@@ -15,7 +15,7 @@ The game allows a user to play against a computer opponent, with scores updating
 - CSS
 - JavaScript
 
-## How to Play
+## How to Play (https://oishi503.github.io/rock-paper-scissors/)
 1. Open the game in a browser
 2. Click on Rock, Paper, or Scissors
 3. The computer makes a random choice
